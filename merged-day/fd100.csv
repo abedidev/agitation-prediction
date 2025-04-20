@@ -1,0 +1,5 @@
+id,date,back-door,bathroom,bedroom,fridge-door,front-door,hallway,kitchen,lounge,body-temperature,body-weight,diastolic-blood-pressure,heart-rate,muscle-mass,systolic-blood-pressure,total-body-water,skin-temperature
+fd100,2019-06-27,2.0,24.0,48.0,23.0,25.0,47.0,100.0,97.0,36.7,55.8,76.0,54.0,37.5,153.0,48.7,-1.0
+fd100,2019-06-28,0.0,32.0,91.0,7.0,21.0,58.0,145.0,120.0,36.68,-1.0,74.0,61.0,-1.0,138.0,-1.0,-1.0
+fd100,2019-06-29,0.0,33.0,56.0,27.0,15.0,61.0,110.0,96.0,36.24,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+fd100,2019-06-30,0.0,27.0,86.0,8.0,20.0,43.0,120.0,110.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0

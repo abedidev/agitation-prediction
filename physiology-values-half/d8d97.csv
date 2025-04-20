@@ -1,0 +1,4 @@
+id,day,half,body-temperature,diastolic-blood-pressure,heart-rate,systolic-blood-pressure,body-weight,muscle-mass,total-body-water,skin-temperature
+d8d97,2019-06-24,00-12,36.82,81.5,92.5,132.5,-1,-1,-1,-1
+d8d97,2019-06-24,12-24,36.52,-1.0,-1.0,-1.0,-1,-1,-1,-1
+d8d97,2019-06-25,12-24,37.34,79.0,93.5,139.5,-1,-1,-1,-1

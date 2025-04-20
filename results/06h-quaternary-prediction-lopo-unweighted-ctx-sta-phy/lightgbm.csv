@@ -1,0 +1,5 @@
+auc-roc-macro,auc-roc-weighted,auc-pr-macro,auc-pr-weighted,accuracy,confusion_matrix,cm-0,cm-1,cm-2,cm-3,cm-4,cm-5,cm-6,cm-7,cm-8,cm-9,cm-10,cm-11,cm-12,cm-13,cm-14,cm-15
+0.8657,0.8434,0.3027,0.9719,0.9790,"[10563 3 0 0]
+[117 0 0 0]
+[89 0 0 0]
+[18 0 0 0]",10563,3,0,0,117,0,0,0,89,0,0,0,18,0,0,0

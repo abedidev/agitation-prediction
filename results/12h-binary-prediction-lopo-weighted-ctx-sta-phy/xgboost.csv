@@ -1,0 +1,2 @@
+auc-roc,auc-pr,accuracy,precision,recall,f1-score,sensitivity,specificity,tn,fp,fn,tp
+0.8092,0.1023,0.9738,0.2250,0.0756,0.1132,0.0756,0.9941,5231,31,110,9

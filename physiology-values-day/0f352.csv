@@ -1,0 +1,6 @@
+id,date,body-temperature,body-weight,diastolic-blood-pressure,heart-rate,systolic-blood-pressure,muscle-mass,total-body-water,skin-temperature
+0f352,2019-06-25,36.39,72.4,91.0,72.0,123.0,-1,-1,-1
+0f352,2019-06-26,36.06,-1.0,80.0,75.0,136.67,-1,-1,-1
+0f352,2019-06-28,36.3,-1.0,73.5,74.5,142.0,-1,-1,-1
+0f352,2019-06-29,36.3,-1.0,75.5,76.0,140.0,-1,-1,-1
+0f352,2019-06-30,36.54,-1.0,75.0,68.0,138.0,-1,-1,-1
